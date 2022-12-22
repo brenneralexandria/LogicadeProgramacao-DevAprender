@@ -1,6 +1,6 @@
 // Criar uma função para somar todos os multiplos de 3 e 5
 
-soma(10);
+soma(6);
 function soma(limite) {
     let number3 = 0;
     let number4 = 0;

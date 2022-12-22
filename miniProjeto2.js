@@ -1,4 +1,4 @@
-let valorMaior = max(30, 20);
+let valorMaior = max(50, 100);
 console.log(valorMaior);
 
 function max(n1, n2) {

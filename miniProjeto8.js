@@ -9,7 +9,6 @@
    90 - 100: A */
 
 const array = [90, 90, 90];
-
 console.log(mediaDoAluno(array));
 
 function mediaDoAluno(notas) {

@@ -1,6 +1,6 @@
 // Par ou impar 
 
-/* Receber um valor e informa se ele é par ou impar */
+/* Receber um valor e informar se ele é par ou impar */
 
 
 // Programa para ler qualquer número se é par ou impar
